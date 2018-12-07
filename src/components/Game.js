@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Score from './Score'
+/*comment*/
 
 class Game extends Component {
 
